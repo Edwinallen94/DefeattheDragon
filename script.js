@@ -207,6 +207,8 @@ function attack() {
     } else {
       defeatMonster();
     }
+    if (Math.random() <= 0.1) {
+    }
   }
 }
 
