@@ -253,4 +253,8 @@ function restart() {
   xpText.innerText = xp;
   goTown();
 }
-//adding easter eggs to the game
+//adding easter eggs to the game (hidden features)
+
+function easterEgg() {
+  update(locations[7]);
+}
