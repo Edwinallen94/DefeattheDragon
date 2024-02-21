@@ -1,2 +1,3 @@
 # DefeattheDragon
-I developed my current repository by leveraging the JavaScript Algorithm and Data Structures Certification from freeCodeCamp. Through this comprehensive certification, I gained proficiency in fundamental JavaScript concepts such as variables, arrays, objects, loops, functions, and manipulating the DOM. Additionally, I delved into advanced topics like Object-Oriented Programming (OOP), Functional Programming, and algorithmic thinking. Furthermore, I learned practical skills such as working with local storage and fetching data using APIs. With this solid foundation, I was able to create my repository, applying my knowledge to build a role-playing JavaScript game and implement various features effectively.
+
+In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
