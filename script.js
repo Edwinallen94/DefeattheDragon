@@ -253,3 +253,4 @@ function restart() {
   xpText.innerText = xp;
   goTown();
 }
+//adding easter eggs to the game
